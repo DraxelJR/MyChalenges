@@ -1,0 +1,11 @@
+#title{
+    font-weight: bold;
+    font-size: 300%;
+    color: rgba(47, 47, 47, 1);
+}
+
+#trophy{
+     position:relative;
+     width: 10%;
+     border-radius:50%;
+}

@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: rgb(62, 213, 206);
+    margin: 5%;
+}
+
+#title {
+    font-family: 'Oswald', sans-serif;
+    font-style: italic;
+    color: rgb(30, 28, 30);
+    margin-bottom: 4%;
+}
+
+
+
+p {
+    font-family: 'Aboreto', sans-serif;
+    font-weight: 800;
+    color: rgb(83, 75, 75);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(54, 5, 42);
+    font-family: 'Oswald', sans-serif;
+
+}
+
+a:hover {
+    color: rgb(186, 36, 36)
+}
