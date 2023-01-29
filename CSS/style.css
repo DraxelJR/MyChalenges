@@ -1,3 +1,5 @@
+/* This file of CSS applyes to the index file */
+
 #title{
     font-weight: bold;
     font-size: 300%;
@@ -11,6 +13,7 @@
 }
 
 a{
+    margin-top:50%;
     font-family: 'Aboreto', sans-serif;
 }
 

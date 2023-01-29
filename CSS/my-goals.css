@@ -1,5 +1,45 @@
+/* This file of CSS aplies only for the second file the my-goals */
+
+h1{
+    font-size: 350%;
+}
+
+h2{
+    margin-top:5%;
+}
+
+a{
+    background-color: rgb(238, 41, 175);
+    padding:15px 15px 20px 15px;
+    border-radius: 50%;
+}
+
+a:hover{
+    background-color: rgb(66, 18, 225);
+    transition: 2s;
+}
+
+
 ul{
     font-family: 'Aboreto', sans-serif;
     font-weight: 800;
-    list-style: none; 
+    list-style: none;
+    padding-left: 0px;
 }
+
+li{
+    background-color: rgba(123, 44, 208, 0.2);
+    border-radius: 10px;
+    padding: 2px 20px;
+    margin: 2% 20%;
+}
+
+li > h3{
+    color: rgb(25, 22, 22);
+    font-family: 'Oswald', sans-serif;
+}
+
+.daily-goal{
+    background-color:aqua;
+}
+ 

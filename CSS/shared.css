@@ -1,3 +1,5 @@
+/* This is the main CSS file */
+
 body {
     text-align: center;
     background-color: rgb(62, 213, 206);
@@ -7,7 +9,7 @@ body {
 #title {
     font-family: 'Oswald', sans-serif;
     font-style: italic;
-    color: rgb(30, 28, 30);
+    color: rgb(72, 62, 62);
     margin-bottom: 4%;
 }
 
@@ -16,7 +18,7 @@ body {
 p {
     font-family: 'Aboreto', sans-serif;
     font-weight: 800;
-    color: rgb(83, 75, 75);
+    color: rgb(19, 17, 17)
 }
 
 a {
@@ -27,5 +29,5 @@ a {
 }
 
 a:hover {
-    color: rgb(186, 36, 36)
+    color: rgb(250, 250, 250)
 }
